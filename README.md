@@ -121,6 +121,4 @@ This activity is maintained in an individual public GitHub repository for facult
 
 The repository contains the completed notebook/report, README and required project files. It is publicly accessible for review.
 
----
 
-*This project is submitted as part of the RCA CIE 2 Activity 2 requirements.*
