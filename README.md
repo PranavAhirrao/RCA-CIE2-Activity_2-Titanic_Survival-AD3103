@@ -117,7 +117,7 @@ This activity is maintained in an individual public GitHub repository for facult
 
 **Student GitHub ID:** [complexiota](https://github.com/complexiota)
 
-**Repository Name:** RCA-CIE2-Activity2-AD2103
+**Repository Name:** RCA-CIE2-Activity2-AD3103
 
 The repository contains the completed notebook/report, README and required project files. It is publicly accessible for review.
 
